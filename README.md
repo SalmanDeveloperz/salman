@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salman</h1>
-<h3 align="center">A passionate Developer from Pakistan pk</h3>
+<h3 align="center">A passionate Software Developer from Pakistan pk</h3>
 
 - 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/SalmanDeveloperz/DSA-in-Cpp)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing](https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing)
 
-- ⚡ *Alhumdulillah, I know I am Awesome and I'll do it*
+- ⚡ *Alhumdulillah, I know I am Awesome and I'll do it great*
 
 
 <h3 align="left">Connect with me:</h3>
